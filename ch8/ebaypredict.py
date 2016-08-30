@@ -1,23 +1,10 @@
-# __author__ = 'karolius'
-# 2016-08-01    00:10
-# -*- coding: utf-8 -*-
-
 import httplib
 from xml.dom.minidom import parse, parseString, Node
 
-devKey = 'c148b830-c9de-4183-8b92-ec10dda4807c'
-appKey = 'DominikJ-pricepre-SBX-613d8b9b0-180433dd'
-certKey = 'SBX-13d8b9b0406b-66b6-49c7-84f5-c006'
-userToken = 'AgAAAA**AQAAAA**aAAAAA**uXmeVw**nY+sHZ2PrBmdj6wVnY+sEZ2PrA2dj6wFk4GjCZmHoQ6dj6x9nY+seQ**' \
-            '5OUDAA**AAMAAA**R/lwZ1B9IqrQJru0IY0wvnErLuwmpQ4N7CANjT2yFI0mxzSo0R0NnA+RZY7vY6ZZaR2kqoG9' \
-            '0gMOc11t97+JT+9DlzV4zH+1A2dI+jMmGQi7Q3DuppW7DBNLSjTZtONf+Hw80gBegXMumNYyXjts+yclYH1gpcKL' \
-            'rrI4OEpyam2wbd9UC82JwFlulFY3LIt/ZUmxZeNDEgLQV47KCH9QbiIaVywVtBCxpktb+dzqOqwGvnd1eIEN4Mvv' \
-            'CvBEXEBCOoMuefvGr3i78qX1XqtajjBxXvecLgO4/xjyh5mPDORq1NJqfZGmqBe0c5Z9mNlQt6WvGJexM8e2eLIn' \
-            'OLO80INP44cey/tzkb2G4tHYvFm/G1Z3IAlPW+x6p6UCCsmBu6EHqNNNW/TSqKrUfdU0Tik/BHlNz7vcF6z1vVcD' \
-            'g9UqJ16oVHeIC9D/VTFfDxjxMvBA7zKKgb8TVADAr0UGp5fRxRhhv573ij81DbEvPTy7AX/uQkl7EUs/JCI39YYC' \
-            'ZktBcP7NqMY0wEQOEezkFazohaYKK1LRsW+8TOxcRUckRta2KmP6rlA6Yk+7ftd9JG47RpOxzy7zQH0nJUgulNSJ' \
-            'IRVuhPSSx+nAUTQPT/lQPCR/HwiCr5I2hlkKw835dSLPyC9XZ23ULCwKD2bdFo02ZZs1kIecH44TChESQGDrZSgM' \
-            'GY9GXB0P+HAoPr75E3+AaykLcJWmeRbuXBb+Scpk6on7c9/hctQFzRkF0ag3awI8DcVHQ4loifTuqM/s'
+devKey = 'xxx'
+appKey = 'xxx'
+certKey = 'xxx'
+userToken = 'xxx'
 serverUrl = 'api.ebay.com'
 
 
