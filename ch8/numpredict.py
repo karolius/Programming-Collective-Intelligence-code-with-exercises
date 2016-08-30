@@ -1,7 +1,3 @@
-# __author__ = 'karolius'
-# 2016-07-27    23:38
-# -*- coding: utf-8 -*-
-
 from random import random, randint
 import math
 import optimization
